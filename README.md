@@ -27,7 +27,7 @@ Idées de syntaxe (juste des idées)
 - `->`, `-->`, `=>`, etc, pour les flèches
 - `inf` pour `\infty`
 - `?E` et `?A` pour `\forall` et il existe
-- `?U ?I ?C` pour union, inter, inclusion
+- `?U` `?I` `?C` pour union, inter, inclusion
 - `€` pour l'appartenance
 - `[|` et `|]` pour les intervalles entiers
 - `~` pour équivalent
