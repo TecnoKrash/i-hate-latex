@@ -26,12 +26,13 @@ Idées de syntaxe (juste des idées)
 - `!` pour barrer un truc
 - `->`, `-->`, `=>`, etc, pour les flèches
 - `inf` pour `\infty`
-- `?E` et `?A` pour `\forall` et il existe
-- `?U ?I ?C` pour union, inter, inclusion
+- `?E` (`?E!`) et `?A` pour `\forall` et il existe (un unique)
+- `?u ?i ?c` pour union, inter, inclusion
+- ?U ?I pour big_cup et big_hat
 - `€` pour l'appartenance
 - `[|` et `|]` pour les intervalles entiers
 - `~` pour équivalent
-- pas d'idée pour arrondis...
+- `~=` pour arrondis...
 - `!]` pour indiquer que le ] doit matcher avec un autre dans le mauvais sens (intervalles `]a; b[` s'écrivent `!]a; b[!`)
 
 - `||` pour `\mathbb`
